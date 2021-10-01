@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="operacoes-matematicas">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/operacoes-matematicas.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/../operacoes-matematicas/javadoc/index.html" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
